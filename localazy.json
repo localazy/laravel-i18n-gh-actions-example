@@ -1,15 +1,9 @@
 {
-
-    "writeKey": "a8272834287361327096-e370b5327bc805f30c5f54af21ff6bd14a31dee0ce0cc2c0dd3264c8d134b7e4",
-    "readKey": "a8272834287361327096-ca930ef68570324b36bedf708bdf5c6cb16b8ea2a731710a114a5369040f4cfe",
-
     "upload": {
       "type": "php",
-      "files": "translations/strings.php"
+      "files": "lang/en/**.php"
     },
-
     "download": {
-      "files": "translations/${lang}.php"
+      "files": "lang/${lang}/${file}"
     }
-
-  }
+}
