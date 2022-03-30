@@ -1,4 +1,5 @@
 {
+    "Some test message": "Some test message",
     "The :attribute must contain at least one letter.": "The :attribute must contain at least one letter.",
     "The :attribute must contain at least one number.": "The :attribute must contain at least one number.",
     "The :attribute must contain at least one symbol.": "The :attribute must contain at least one symbol.",
