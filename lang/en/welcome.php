@@ -1,6 +1,7 @@
 <?php
 
 return [
+    'laravel' => 'Laravel',
     'home' => 'Home',
     'log_in' => 'Log in',
     'register' => 'Register',
