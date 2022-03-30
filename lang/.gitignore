@@ -2,5 +2,5 @@
 # !en/**.php
 # **/**.php
 # do not ignore source language locale json file, but do ignore the rest
-# !en.json
-# *.json
+!en.json
+*.json
