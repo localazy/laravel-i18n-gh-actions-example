@@ -17,4 +17,5 @@ return [
     'sponsor' => 'Sponsor',
     'laravel_version' => 'Laravel v:version',
     'php_version' => '(PHP v:version)',
+    'test_string' => 'This is a test',
 ];
