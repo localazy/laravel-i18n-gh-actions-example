@@ -15,6 +15,7 @@ return [
   "register" => "Registrovat",
   "shop" => "Obchod",
   "sponsor" => "Sponzor",
+  "test_string" => "Toto je test",
   "vibrant_ecosystem" => "Pulzující ekosystém",
   "vibrant_ecosystem_text" => "Laravelova robustní knihovna nástrojů a knihoven první strany, jako jsou <a href=\"https://forge.laravel.com\" class=\"underline\">Forge</a>, <a href=\"https://vapor.laravel.com\" class=\"underline\">Vapor</a>, <a href=\"https://nova.laravel.com\" class=\"underline\">Nova</a>, a <a href=\"https://envoyer.io\" class=\"underline\"> Vyslanec</a> vám pomůže posunout vaše projekty na další úroveň. Spárujte je s výkonnými open source knihovnami jako <a href=\"https://laravel.com/docs/billing\" class=\"underline\">Pokladní</a>, <a href=\"https://laravel.com/docs/dusk\" class=\"underline\">soumrak</a>, <a href=\"https://laravel.com/docs/broadcasting\" class=\"underline\">Echo</a>, <a href=\"https://laravel.com/docs/horizon\" class=\"underline\">Horizont</a>, <a href=\"https://laravel.com/docs/sanctum\" class=\"underline\">Svatyně</a>, <a href=\"https://laravel.com/docs/telescope\" class=\"underline\">Dalekohled</a>, a více."
 ];

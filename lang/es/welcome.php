@@ -15,6 +15,7 @@ return [
   "register" => "Registrarse",
   "shop" => "Tienda",
   "sponsor" => "Patrocinador",
+  "test_string" => "This is a test",
   "vibrant_ecosystem" => "Ecosistema vibrante",
   "vibrant_ecosystem_text" => "La sólida biblioteca de herramientas y bibliotecas de primera parte de Laravel, como <a href=\"https://forge.laravel.com\" class=\"underline\">Forge</a>, <a href=\"https://vapor.laravel.com\" class=\"underline\">Vapor</a>, <a href=\"https://nova.laravel.com\" class=\"underline\">Nova</a> y <a href=\"https://envoyer.io\" class=\"underline\"> Envoyer</a> te ayuda a llevar tus proyectos al siguiente nivel. Combínalos con poderosas bibliotecas de código abierto como <a href=\"https://laravel.com/docs/billing\" class=\"underline\">Cashier</a>, <a href=\"https://laravel.com/docs/dusk\" class=\"underline\">Dusk</a>, <a href=\"https://laravel.com/docs/broadcasting\" class=\"underline\">Echo</a>, <a href=\"https://laravel.com/docs/horizon\" class=\"underline\">Horizon</a>, <a href=\"https://laravel.com/docs/sanctum\" class=\"underline\">Sanctum</a>, <a href=\"https://laravel.com/docs/telescope\" class=\"underline\">Telescope</a> y más."
 ];
