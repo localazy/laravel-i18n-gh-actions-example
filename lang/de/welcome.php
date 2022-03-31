@@ -16,6 +16,7 @@ return [
   "shop" => "Shop",
   "sponsor" => "Sponsor",
   "test_string" => "This is a test",
+  "test_string_2" => "This is a test 2",
   "vibrant_ecosystem" => "Lebendiges Ökosystem",
   "vibrant_ecosystem_text" => "Laravels robuste Bibliothek mit Tools und Bibliotheken von Erstanbietern wie <a href=\"https://forge.laravel.com\" class=\"underline\">Forge</a>, <a href=\"https://vapor.laravel.com\" class=\"underline\">Vapor</a>, <a href=\"https://nova.laravel.com\" class=\"underline\">Nova</a> und <a href=\"https://envoyer.io\" class=\"underline\"> Envoyer</a> hilft Ihnen dabei, Ihre Projekte auf die nächste Stufe zu heben. Kombinieren Sie sie mit leistungsstarken Open-Source-Bibliotheken wie <a href=\"https://laravel.com/docs/billing\" class=\"underline\">Cashier</a>, <a href=\"https://laravel.com/docs/dusk\" class=\"underline\">Dusk</a>, <a href=\"https://laravel.com/docs/broadcasting\" class=\"underline\">Echo</a>, <a href=\"https://laravel.com/docs/horizon\" class=\"underline\">Horizont</a>, <a href=\"https://laravel.com/docs/sanctum\" class=\"underline\">Heiligtum</a>, <a href=\"https://laravel.com/docs/telescope\" class=\"underline\">Teleskop</a> und mehr."
 ];
