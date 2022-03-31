@@ -19,4 +19,5 @@ return [
     'php_version' => '(PHP v:version)',
     'test_string' => 'This is a test',
     'test_string_2' => 'This is a test 2',
+    'test_string_3' => 'This is a test 3',
 ];
