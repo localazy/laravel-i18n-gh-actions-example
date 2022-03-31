@@ -18,4 +18,5 @@ return [
     'laravel_version' => 'Laravel v:version',
     'php_version' => '(PHP v:version)',
     'test_string' => 'This is a test',
+    'test_string_2' => 'This is a test 2',
 ];
